@@ -1,0 +1,11 @@
+body {
+  background-image: url("/images/background.jpg");
+  background-color: #cccccc;
+  background-size: contain;
+}
+
+.buttonClass {
+  padding: inherit;
+
+  position: fixed;
+}
